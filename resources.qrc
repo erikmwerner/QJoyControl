@@ -1,0 +1,18 @@
+<RCC>
+    <qresource prefix="/">
+        <file>img/batt_0.png</file>
+        <file>img/batt_0_chr.png</file>
+        <file>img/batt_100.png</file>
+        <file>img/batt_100_chr.png</file>
+        <file>img/batt_25.png</file>
+        <file>img/batt_25_chr.png</file>
+        <file>img/batt_50.png</file>
+        <file>img/batt_50_chr.png</file>
+        <file>img/batt_75.png</file>
+        <file>img/batt_75_chr.png</file>
+        <file>img/retail_colors.xml</file>
+        <file>img/Logo.icns</file>
+        <file>img/Logo.png</file>
+        <file>img/Logo.svg</file>
+    </qresource>
+</RCC>

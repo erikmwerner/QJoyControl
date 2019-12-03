@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.0"
+   width="550.000000pt"
+   height="550.000000pt"
+   viewBox="0 0 550.000000 550.000000"
+   preserveAspectRatio="xMidYMid meet"
+   id="svg12"
+   sodipodi:docname="Logo.svg"
+   inkscape:version="0.92.2 5c3e80d, 2017-08-06">
+  <defs
+     id="defs16" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1680"
+     inkscape:window-height="1005"
+     id="namedview14"
+     showgrid="true"
+     showguides="false"
+     inkscape:zoom="1.1359091"
+     inkscape:cx="309.28226"
+     inkscape:cy="354.48668"
+     inkscape:window-x="0"
+     inkscape:window-y="721"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg12"
+     inkscape:pagecheckerboard="true" />
+  <metadata
+     id="metadata2">
+Created by potrace 1.13, written by Peter Selinger 2001-2015
+<rdf:RDF>
+  <cc:Work
+     rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type
+       rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+    <dc:title></dc:title>
+  </cc:Work>
+</rdf:RDF>
+</metadata>
+  <path
+     style="fill:#000000;stroke:none;stroke-width:0.1"
+     inkscape:connector-curvature="0"
+     id="path4"
+     d="m 136.5,34.6 c -48.1,8.6 -86.8,44.2 -99,91 -4.4,16.9 -4.7,26.8 -4.2,157.9 0.3,120.4 0.4,123.2 2.4,132.5 11.1,50.1 46.7,85.8 97.3,97.6 6.6,1.5 15,1.8 69.1,2.1 56,0.4 61.8,0.3 63.3,-1.2 1.5,-1.5 1.6,-20.8 1.6,-239.6 0,-162.2 -0.3,-238.6 -1,-240 -1,-1.8 -2.7,-1.9 -61.3,-1.8 -47.6,0.1 -61.9,0.4 -68.2,1.5 z m 90.5,240 v 202.6 l -40.7,-0.5 c -37.5,-0.4 -41.5,-0.6 -49,-2.5 C 105.1,465.9 81.2,441.1 74.5,408.8 72.3,398.7 72.3,149.9 74.4,140 c 6,-28.1 25.5,-51.4 51.8,-61.9 13.2,-5.3 19.3,-5.9 62.1,-6 L 227,72 Z" />
+  <path
+     style="fill:#000000;stroke:none;stroke-width:0.13333333"
+     d="M 480 44 C 448 44 421.33359 44.40026 420.93359 44.933594 C 420.40026 45.333594 420 189.86615 420 366.13281 C 420 656.9328 420.13281 686.39922 422.13281 687.19922 C 425.73281 688.53255 529.2 687.99935 542 686.66602 C 596.13333 680.53268 643.86719 647.59935 669.86719 598.66602 C 673.20052 592.39935 677.60052 581.86732 679.86719 575.33398 C 688.26719 550.26732 688 556.93398 688 365.33398 C 688 212.40066 687.73385 189.60052 685.86719 179.86719 C 672.66719 110.40052 619.73281 58 550.13281 46 C 540.79948 44.4 526.4 44 480 44 z M 482 331.33398 L 614 331.33398 L 614 463.33398 L 482 463.33398 L 482 331.33398 z "
+     transform="scale(0.75000002)"
+     id="path8" />
+  <g
+     id="g3802"
+     transform="translate(4.5,1.5)">
+    <rect
+       style="stroke-width:10.14664841"
+       id="rect46"
+       height="81.173187"
+       width="20.293297"
+       transform="rotate(-22.772792)"
+       y="214.21722"
+       x="53.361782" />
+    <polygon
+       transform="matrix(10.146066,0,0,10.146066,20.206547,31.84842)"
+       id="polygon48"
+       points="9.2,18.5 12.2,15.6 12.6,15.5 17.4,15.5 9.2,7.3 " />
+  </g>
+</svg>

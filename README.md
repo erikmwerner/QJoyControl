@@ -1,4 +1,4 @@
-# QJoyControl <img src="https://github.com/erikmwerner/QJoyControl/blob/master/img/Logo.png" width="128" height="128" title="">
+# QJoyControl <img src="https://github.com/erikmwerner/QJoyControl/blob/master/img/Logo.png" width="64" height="64" title="">
 QJoyControl lets you use Nintendo Switch JoyCons as input devices on your computer. It was originally made so to use a JoyCon as a PowerPoint remote, but it accumulated a few extra features along the way. Currently, QJoyControl supports:
 * JoyCons and Pro Controller
 * Mouse control with analog sticks and gyroscope

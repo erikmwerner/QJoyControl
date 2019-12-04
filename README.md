@@ -1,5 +1,5 @@
-# QJoyControl <img src="https://github.com/erikmwerner/QJoyControl/blob/master/img/Logo.png" width="64" height="64" title="">
-QJoyControl lets you use Nintendo Switch JoyCons as input devices on your computer. It was originally made so to use a JoyCon as a PowerPoint remote, but it accumulated a few extra features along the way. Currently, QJoyControl supports:
+# QJoyControl <img src="https://github.com/erikmwerner/QJoyControl/blob/master/img/Logo.png" align="left" width="64" height="64" title="">
+QJoyControl lets you use Nintendo Switch JoyCons as input devices on your computer. It was originally made to use a JoyCon as a PowerPoint remote, but it accumulated a few extra features along the way. Currently, QJoyControl supports:
 * JoyCons and Pro Controller
 * Mouse control with analog sticks and gyroscope
 * Adjustable mouse sensitivity
@@ -10,9 +10,10 @@ QJoyControl lets you use Nintendo Switch JoyCons as input devices on your comput
 It also works pretty well as a PowerPoint remote.
 
 ## Setup
-1. Pair the JoyCon(s) with your computer and connect to it with bluetooth
+1. Pair the JoyCon with your computer and connect to it with bluetooth
+   * To pair, press the pairing button on the JoyCon and go to Bluetooth Preferences on your Mac
 2. Open QJoyControl and select the JoyCon from the device list
-   * If nothing shows up, make sure the JoyCon is connected and click Refresh to check again
+   * If nothing shows up, make sure the JoyCon is paired and connected and click Refresh to check again
 3. Click Connect to begin streaming input data
 
 If MacOS does not ask to give QJoyControl permission to control your computer, you may need to go into System Preferences and do it manually before keyboard and mouse inputs will register with MacOS. To do this, go to System Preferences, Security & Privacy > Privacy > Accessibility. From there, click the lock icon in the bottom-left corner, enter you password to unlock, click the plus button, and select QJoyControl to add QJoyControl to the list of approved applications.
